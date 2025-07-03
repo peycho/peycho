@@ -31,8 +31,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peycho&theme=github-compact)
 
 ---
 
